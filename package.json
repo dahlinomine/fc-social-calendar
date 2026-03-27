@@ -1,0 +1,14 @@
+{
+  "name": "fc-social-calendar",
+  "version": "0.1.0",
+  "description": "Track and RSVP to web3 events directly from Farcaster",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
